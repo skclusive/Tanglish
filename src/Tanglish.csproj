@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <VersionPrefix>0.0.1</VersionPrefix>
+    <VersionSuffix>$(VersionSuffix)</VersionSuffix>
+    <LangVersion>10.0</LangVersion>
+    <TargetFramework>net6.0</TargetFramework>
+    <AssemblyName>Skclusive.Tanglish.Core</AssemblyName>
+    <PackageId>Skclusive.Tanglish.Core</PackageId>
+    <RootNamespace>Skclusive.Tanglish.Core</RootNamespace>
+    <Authors>Skclusive</Authors>
+    <Company>Skclusive</Company>
+    <Copyright>Skclusive</Copyright>
+    <PackageTags>Skclusive Tanglish Core</PackageTags>
+    <PackageProjectUrl>https://github.com/skclusive/Tanglish</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/skclusive/Tanglish</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
